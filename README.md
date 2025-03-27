@@ -25,4 +25,5 @@ These features not only may aid the accuracy of the CNN, but allow us to better 
 - `cnn_basic.ipynb`: Implements a basic CNN.
 - `cnn_hyperparam_tuning.ipynb`: Performs hyperparameter tuning on the CNN.
 - `cnn_dataaugment.ipynb`: Implements a CNN with data augmentation.
+- `cnn_resnet.ipynb`: Implements a CNN that finetunes the Resnet 50 pretrained model
 - `cnn_vgg16.ipynb`: Implements a CNN that finetunes the VGG16 pretrained model
